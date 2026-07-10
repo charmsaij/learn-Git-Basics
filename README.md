@@ -19,14 +19,23 @@ examples/ — Sample files to practice with
 challenges/ — Fun Git challenges to complete
 
 🎯 Your First Task
+
+
 Clone this repository to your computer
+
 Create your own branch named feature/[your-name]
+
 Add your name to students.txt
+
 Tell your teacher when you're done!
 
 
 📚 Learning Path
+
+
 Beginner (Start Here)
+
+
  Clone the repository
  Create a branch
  Make your first change
@@ -34,12 +43,14 @@ Beginner (Start Here)
  
 Intermediate
 
+
  Create a new file on your branch
  Pull updates from main
  Compare branches
  View git history
  
 Advanced
+
 
  Stash and pop changes
  Undo changes
@@ -49,6 +60,8 @@ Advanced
 
  
 🛠️ Essential Commands
+
+
 
 # See what branch you're on
 git status
@@ -76,6 +89,8 @@ git log --oneline
 
 
 ✏️ How to Add Your Name
+
+
 Open students.txt in a text editor
 Add your name on a new line
 Save the file
@@ -93,7 +108,6 @@ Run git status to see the change
 If you get an error message:
 
 Read the error carefully
-Check the Troubleshooting Guide in ACTIVITIES.md
 Ask your teacher or a classmate
 Remember: Mistakes are how you learn!
 
