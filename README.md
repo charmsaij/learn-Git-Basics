@@ -2,13 +2,20 @@
 A practice repository for learning Git basics
 
 Git Practice Repository 🚀
+
 Welcome to the Git Learning Space! This repository is designed for students to practice Git commands in a safe, real environment.
 
 📋 What's in This Repository?
+
+
 README.md — This file (instructions and overview)
+
 ACTIVITIES.md — Step-by-step practice activities
+
 students.txt — Add your name here!
+
 examples/ — Sample files to practice with
+
 challenges/ — Fun Git challenges to complete
 
 🎯 Your First Task
