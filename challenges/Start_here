@@ -4,7 +4,7 @@
 2. Go to your Projects folder:
    cd ~/Desktop/Projects
 3. Clone this repository:
-   git clone 
+   git clone https://github.com/charmsaij/learn-Git-Basics.git
 4. Move into the folder:
    cd learn-Git-Basics
 5. See what's inside:
