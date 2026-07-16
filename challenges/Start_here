@@ -1,0 +1,15 @@
+# Start Here — Clone This Repo
+
+1. Open your terminal
+2. Go to your Projects folder:
+   cd ~/Desktop/Projects
+3. Clone this repository:
+   git clone 
+4. Move into the folder:
+   cd learn-Git-Basics
+5. See what's inside:
+   ls
+
+You should see: README.md, students.txt, examples/, challenges/
+
+✅ If you see those files — you're ready for Challenge 1!
