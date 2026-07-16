@@ -1,0 +1,4 @@
+# Challenge 2: Branch Practice
+1. Create a branch: git checkout -b feature/your-name
+2. Run git status to confirm you're on it
+3. Tell your teacher the branch name you created!
