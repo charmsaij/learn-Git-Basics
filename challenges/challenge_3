@@ -1,0 +1,4 @@
+# Challenge 3: Status Detective
+1. Create a new file: echo "hello" > test.txt
+2. Run git status
+3. What does it say about test.txt? Tell your teacher!
