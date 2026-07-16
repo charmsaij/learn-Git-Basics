@@ -15,7 +15,7 @@ Welcome to the Git Learning Space! This repository is designed for students to p
 ## 📥 How to Clone
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/learn-Git-Basics.git
+git clone https://github.com/AreebaIrfanJujara/learn-Git-Basics.git
 cd learn-Git-Basics
 ```
 
